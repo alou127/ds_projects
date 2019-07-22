@@ -6,7 +6,7 @@ I plan to use [Pro Football Reference](https://www.pro-football-reference.com/) 
 
 ---
 
-My MVP that I plan to tackle first is seeing the relationship between all-purpose yards and touchdowns. I suspect that with more yards there will be more touch downs, but I'm not entirely sure.
+My MVP that I plan to tackle first is seeing the relationship between all-purpose yards and touchs. I suspect that with more yards there will be more touch downs, but I'm not entirely sure.
 
 What I want to really explore is how many of the features of this table affect whether a player is selected to the ProBowl. You can see in the table, that there are asteriks next to some of the players. Whether a player has an asterik or not will be my binary response variable logit regression. From the output I'll be able to interpret the log-odds of making it to the ProBowl.
 
